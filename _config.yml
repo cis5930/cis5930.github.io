@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COP3363 Fall 2024
+title: CIS 5930 </br>Spring 2025
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cis5930.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: cis5930.github.io/cis5930.github.io # for github-metadata
+url: "https://cop3363fall2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: cop3363fall2024.github.io/cop3363fall2024.github.io # for github-metadata
 
 permalink: pretty
 
@@ -52,7 +52,8 @@ exclude:
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "/assets/images/just-the-docs.png"
 
-favicon_ico: "/assets/images/favicon_io/cop_icon.png"
+# favicon_ico: "/assets/images/favicon_io/cop_icon.png"
+favicon_ico: 
 
 # Enable or disable the site search
 # Supports true (default) or false

@@ -2,6 +2,7 @@
 layout: default
 title: Staff
 nav_order: 4
+nav_exclude: true
 ---
 
 # Instructor

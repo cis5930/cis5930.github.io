@@ -28,15 +28,14 @@ Fall 2024
 <br/>
 Office: 206A LOV
 <br/>
-Office Hour: Tue 2:00-4:00 pm
+Office Hour: Mon 3:30-5:00 pm
 <br/>
-[Meet Our Teaching Staff](docs/staff)
 
 ## Class Time and Location
-Monday and Wednesday on 4:50pm - 6:05pm @ MCH 201
+Monday and Wednesday on 6:30pm - 7:45pm @ LOV 307
 
-## Review and Discussion Sessions
-[See the details](docs/sessions)
+<!-- ## Review and Discussion Sessions
+[See the details](docs/sessions) -->
 
 <!-- # Focus on writing good documentation
 {: .fs-9 }
