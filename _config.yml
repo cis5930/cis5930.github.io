@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CIS 5930 </br>Spring 2025
+title: CIS 5930 
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cop3363fall2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: cop3363fall2024.github.io/cop3363fall2024.github.io # for github-metadata
+url: "https://cis5930.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: cis5930.github.io/cis5930.github.io # for github-metadata
 
 permalink: pretty
 
@@ -50,10 +50,9 @@ exclude:
    - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-# logo: "/assets/images/just-the-docs.png"
+# logo: "/assets/images/fsu.jpg"
 
-# favicon_ico: "/assets/images/favicon_io/cop_icon.png"
-favicon_ico: 
+favicon_ico: "/assets/images/fsu.jpg"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -105,9 +104,9 @@ mermaid:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-# aux_links:
-#   "Feedback Form":
-#     - "https://docs.google.com/forms/d/e/1FAIpQLSeKnHfVF6wGZ7ZhgPxqJRHbgZaWKUBJ5TGQ_PnaScU1pk4dRg/viewform?usp=sf_link"
+aux_links:
+  "Department of Computer Science @ FSU":
+    - "https://www.cs.fsu.edu/"
 
 
 # Makes Aux links open in a new tab. Default is false

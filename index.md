@@ -8,7 +8,7 @@ permalink: /
 
 # Probabilistic Machine Learning and Modeling
 
-Fall 2024
+Spring 2025
 {: .fs-6 .fw-300 }
 [Download the Course Syllabus Here](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
 
@@ -29,7 +29,7 @@ Fall 2024
 <br/>
 Office: 206A LOV
 <br/>
-Office Hour: Mon 3:30-5:00 pm
+Office Hour: Mon 3:30-5:30 pm
 <br/>
 
 ## Class Time and Location
