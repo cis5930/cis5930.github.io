@@ -6,22 +6,23 @@ description: "Welcome to COP3363"
 permalink: /
 ---
 
-# Introduction to Programming in C++ for Majors
+# Probabilistic Machine Learning and Modeling
 
 Fall 2024
 {: .fs-6 .fw-300 }
 [Download the Course Syllabus Here](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
 
-<div class="code-example" markdown="1">
+<!-- <div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Final Exam Annoucement</span>
 
 * <span style="color:red"><b>Date: Dec 9th (Mon) 5:30 pm - 7:30 pm @ MCH 201</b> </span>
-* <span style="color:red"><b>NO MAKEUP EXAM!</b> </span>
+* <span style="color:red"><b>NO MffAKEUP EXAM!</b> </span>
 * <span style="color:red"><b>Comprehensive</b> </span>
 * <span style="color:red"><b>Closed-book, NO CHEATSHEET, NO ELECTRONIC DEVICES</b> </span>
 
+</div> -->
 
-[Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white }
+<!-- [Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white } -->
 
 ## Instructor
 [Shibo Li](https://imshibo.com/)

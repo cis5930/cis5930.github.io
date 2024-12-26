@@ -105,9 +105,10 @@ mermaid:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Feedback Form":
-    - "https://docs.google.com/forms/d/e/1FAIpQLSeKnHfVF6wGZ7ZhgPxqJRHbgZaWKUBJ5TGQ_PnaScU1pk4dRg/viewform?usp=sf_link"
+# aux_links:
+#   "Feedback Form":
+#     - "https://docs.google.com/forms/d/e/1FAIpQLSeKnHfVF6wGZ7ZhgPxqJRHbgZaWKUBJ5TGQ_PnaScU1pk4dRg/viewform?usp=sf_link"
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
