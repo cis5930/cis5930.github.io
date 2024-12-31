@@ -11,7 +11,7 @@ nav_order: 3
 
 | Date           | Topic                                                         |  Reading Materials                                   | Assignment        |
 |:---------------|:--------------------------------------------------------------|:-----------------------------------------------------|:------------------|
-| Mon 8/26   | Class Overview and Logistics<br/> [[slides]](../../assets/files/lecs/lec1_course_info.pdf) | [Course Syllabus](../../assets/files/syllabus-cop3363-fall24.pdf) |     |
+| Mon 1/6   | Class Overview and Logistics<br/> [[slides]](../../assets/files/lecs/lec1_intro.pdf) | [Course Syllabus](../../assets/files/syllabus-cis5930-spring25.pdf) <br/> [Linear Algebra Review](https://cs229.stanford.edu/section/cs229-linalg.pdf) <br/> [Probability Theory Review](https://cs229.stanford.edu/section/cs229-prob.pdf) |     |
 
 </div>
 <!-- 

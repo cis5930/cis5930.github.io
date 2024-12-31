@@ -10,7 +10,7 @@ permalink: /
 
 Spring 2025
 {: .fs-6 .fw-300 }
-[Download the Course Syllabus Here](./assets/files/syllabus-cop3363-fall24.pdf){: .fs-5 }
+[Download the Course Syllabus Here](./assets/files/syllabus-cis5930-spring25.pdf){: .fs-5 }
 
 <!-- <div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Final Exam Annoucement</span>
@@ -33,7 +33,7 @@ Office Hour: Mon 3:30-5:30 pm
 <br/>
 
 ## Class Time and Location
-Monday and Wednesday on 6:30pm - 7:45pm @ LOV 307
+Monday and Wednesday on 6:35pm - 7:50pm @ LOV 307
 
 <!-- ## Review and Discussion Sessions
 [See the details](docs/sessions) -->
