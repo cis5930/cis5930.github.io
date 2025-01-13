@@ -6,6 +6,16 @@ nav_exclude: false
 
 
 <!-- <div class="code-example" markdown="1">
+<span style="color:#782F40;font-size:16pt">Final Exam Annoucement</span>
+
+* <span style="color:red"><b>Date: Dec 9th (Mon) 5:30 pm - 7:30 pm @ MCH 201</b> </span>
+* <span style="color:red"><b>NO MffAKEUP EXAM!</b> </span>
+* <span style="color:red"><b>Comprehensive</b> </span>
+* <span style="color:red"><b>Closed-book, NO CHEATSHEET, NO ELECTRONIC DEVICES</b> </span>
+
+</div> -->
+
+<!-- <div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 12 Annoucements</span>
 {: .fs-5}
 <span style="color:blue">Nov-18-2024</span>

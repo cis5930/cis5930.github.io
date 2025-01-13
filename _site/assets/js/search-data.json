@@ -358,7 +358,7 @@
   },"51": {
     "doc": "Home",
     "title": "Probabilistic Machine Learning and Modeling",
-    "content": "Spring 2025 . Download the Course Syllabus Here . ",
+    "content": "Spring 2025 . Download the Course Syllabus Here . Week 1 Annoucements . Jan-8-2024 . | Homework 1 released, due on Jan 29 @ 11:59pm. | Homework solutions must be prepared using LaTeX | . Past annoucements . ",
     "url": "/#probabilistic-machine-learning-and-modeling",
     
     "relUrl": "/#probabilistic-machine-learning-and-modeling"
@@ -484,7 +484,7 @@
   },"69": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
-    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 1/6 | Class Overview and Logistics [slides] | Course Syllabus Linear Algebra Review Probability Theory Review |   | . | Wed 1/9 | Basic Concepts [slides] |   | Homework 1 Released (Due Jan 29) | . ",
+    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 1/6 | Class Overview and Logistics [slides] | Course Syllabus Linear Algebra Review Probability Theory Review |   | . | Wed 1/8 | Basic Concepts [slides] |   | Homework 1 Released (Due Jan 29) | . | Mon 1/13 | Probability Distributions [slides] | PRML 2.1-2.3 |   | . ",
     "url": "/docs/lectures/#lecture-schedule",
     
     "relUrl": "/docs/lectures/#lecture-schedule"
