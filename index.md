@@ -34,6 +34,14 @@ Office: 206A LOV
 Office Hour: Mon 3:30-5:30 pm
 <br/>
 
+## Teaching Assistant
+Fatema Tabassum Liza
+<br/>
+Office: TBA
+<br/>
+Office Hour: TBA
+<br/>
+
 ## Class Time and Location
 Monday and Wednesday on 6:35pm - 7:50pm @ LOV 307
 

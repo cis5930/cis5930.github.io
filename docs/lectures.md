@@ -13,7 +13,8 @@ nav_order: 3
 |:---------------|:--------------------------------------------------------------|:-----------------------------------------------------|:------------------|
 | Mon 1/6   | Class Overview and Logistics<br/> [[slides]](../../assets/files/lecs/lec1_intro.pdf) | [Course Syllabus](../../assets/files/syllabus-cis5930-spring25.pdf) <br/> [Linear Algebra Review](https://cs229.stanford.edu/section/cs229-linalg.pdf) <br/> [Probability Theory Review](https://cs229.stanford.edu/section/cs229-prob.pdf) |     |
 | Wed 1/8   | Basic Concepts<br/> [[slides]](../../assets/files/lecs/lec2_concepts.pdf) |  |   Homework 1 Released <br/> (Due Jan 29)  |
-| Mon 1/13   | Probability Distributions<br/> [[slides]](../../assets/files/lecs/lec3_probability_distributions.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2.1-2.3  |   |
+| Mon 1/13   | Probability Distributions<br/> [[slides]](../../assets/files/lecs/lec3_probability_distributions.pdf) <br/> [[Additional Notes]](../../assets/files/notes/Lec3-note.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2.1-2.3  |   |
+| Wed 1/15   | Probability Distributions (Continue)<br/> [[slides]](../../assets/files/lecs/lec3_probability_distributions.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2.1-2.3  |   |
 
 </div>
 <!-- 
