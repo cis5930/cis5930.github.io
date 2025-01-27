@@ -25,9 +25,9 @@ Office Hour: Mon 3:30-5:30 pm
 ## Teaching Assistant
 Fatema Tabassum Liza
 <br/>
-Office: TBA
+Office: Majors Lab 0025A
 <br/>
-Office Hour: TBA
+Office Hour: Tue 11:00am - 1:00pm
 <br/>
 
 ## Class Time and Location
