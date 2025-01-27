@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Annoucements",
     "title": "Annoucements",
-    "content": " ",
+    "content": "Week 1 Annoucements . Jan-8-2024 . | Homework 1 released, due on Jan 29 @ 11:59pm. | Homework solutions must be prepared using LaTeX | . ",
     "url": "/docs/annoucements/",
     
     "relUrl": "/docs/annoucements/"
@@ -358,7 +358,7 @@
   },"51": {
     "doc": "Home",
     "title": "Probabilistic Machine Learning and Modeling",
-    "content": "Spring 2025 . Download the Course Syllabus Here . Week 1 Annoucements . Jan-8-2024 . | Homework 1 released, due on Jan 29 @ 11:59pm. | Homework solutions must be prepared using LaTeX | . Past annoucements . ",
+    "content": "Spring 2025 . Download the Course Syllabus Here . Past annoucements . ",
     "url": "/#probabilistic-machine-learning-and-modeling",
     
     "relUrl": "/#probabilistic-machine-learning-and-modeling"
@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
-    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 1/6 | Class Overview and Logistics [slides] | Course Syllabus Linear Algebra Review Probability Theory Review |   | . | Wed 1/8 | Basic Concepts [slides] |   | Homework 1 Released (Due Jan 29) | . | Mon 1/13 | Probability Distributions [slides] [Additional Notes] | PRML 2.1-2.3 |   | . | Wed 1/15 | Probability Distributions (Continue) [slides] | PRML 2.1-2.3 |   | . ",
+    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 1/6 | Class Overview and Logistics [slides] | Course Syllabus Linear Algebra Review Probability Theory Review |   | . | Wed 1/8 | Basic Concepts [slides] |   | Homework 1 Released (Due Jan 29) | . | Mon 1/13 | Probability Distributions [slides] [Additional Notes] | PRML 2.1-2.3 |   | . | Wed 1/15 | Probability Distributions (Continue) [slides] | PRML 2.1-2.3 |   | . | Mon 01/20 | Cancelled | - | - | . | Wed 01/22 | Cancelled | - | - | . | Wed 1/27 | Probability Distributions (Continue) [slides] Conjugate Priors and Exponential Family [slides] | PRML 1.6, 2.4 |   | . ",
     "url": "/docs/lectures/#lecture-schedule",
     
     "relUrl": "/docs/lectures/#lecture-schedule"

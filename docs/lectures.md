@@ -15,6 +15,9 @@ nav_order: 3
 | Wed 1/8   | Basic Concepts<br/> [[slides]](../../assets/files/lecs/lec2_concepts.pdf) |  |   Homework 1 Released <br/> (Due Jan 29)  |
 | Mon 1/13   | Probability Distributions<br/> [[slides]](../../assets/files/lecs/lec3_probability_distributions.pdf) <br/> [[Additional Notes]](../../assets/files/notes/Lec3-note.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2.1-2.3  |   |
 | Wed 1/15   | Probability Distributions (Continue)<br/> [[slides]](../../assets/files/lecs/lec3_probability_distributions.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 2.1-2.3  |   |
+| Mon 01/20|  <b><span style="color:red">Cancelled</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Wed 01/22|  <b><span style="color:red">Cancelled</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Wed 1/27  | Probability Distributions (Continue)<br/> [[slides]](../../assets/files/lecs/lec3_probability_distributions.pdf) <br/>Conjugate Priors and Exponential Family<br/> [[slides]](../../assets/files/lecs/lec4_conjugate.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 1.6, 2.4  |   |
 
 </div>
 <!-- 

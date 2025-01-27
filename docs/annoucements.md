@@ -4,6 +4,17 @@ title: Annoucements
 nav_exclude: false
 ---
 
+<div class="code-example" markdown="1">
+<span style="color:#782F40;font-size:16pt">Week 1 Annoucements</span>
+{: .fs-5}
+<span style="color:blue">Jan-8-2024</span>
+{: .fs-5}
+
+<!-- * <span style="color:red">Homework 5 due tonight 11:59pm.</span> -->
+* Homework 1 released, due on Jan 29 @ 11:59pm.
+* <span style="color:red">Homework solutions <b>must be</b> prepared using LaTeX</span>
+
+</div>
 
 <!-- <div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Final Exam Annoucement</span>
