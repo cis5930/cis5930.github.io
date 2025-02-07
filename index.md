@@ -25,7 +25,7 @@ Office Hour: Mon 3:30-5:30 pm
 ## Teaching Assistant
 Fatema Tabassum Liza
 <br/>
-Office: Majors Lab 0025A
+Office: Remote only ([Zoom link](https://fsu.zoom.us/j/7896091638?pwd=pW4jD2E8QqMxb9HPE9xFbpbzqVztvL.1))
 <br/>
 Office Hour: Tue 11:00am - 1:00pm
 <br/>
