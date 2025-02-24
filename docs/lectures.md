@@ -18,12 +18,14 @@ nav_order: 3
 | Mon 01/20|  <b><span style="color:red">Cancelled</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
 | Wed 01/22|  <b><span style="color:red">Cancelled</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
 | Mon 1/27  | Probability Distributions (Continue)<br/> [[slides]](../../assets/files/lecs/lec3_probability_distributions.pdf) <br/>Conjugate Priors and Exponential Family<br/> [[slides]](../../assets/files/lecs/lec4_conjugate.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 1.6, 2.4  |   |
-| Wed 1/29  | Conjugate Priors and Exponential Family (Continued)<br/> [[slides]](../../assets/files/lecs/lec4_conjugate.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 1.6, 2.4  |   |
+| Wed 1/29  | Conjugate Priors and Exponential Family (Continued)<br/> [[slides]](../../assets/files/lecs/lec4_conjugate.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 1.6, 2.4  |  Homework 2 Released <br/> (Due Feb 19) |
 | Mon 2/3  | Basic Concepts in Bayesian Decision and Information Theory<br/> [[slides]](../../assets/files/lecs/lec5_decision_information.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 1.6, 2.4, 2.4.3  |   |
 | Wed 2/5  | Generalized Linear Models<br/> [[slides]](../../assets/files/lecs/lec6_generalized_linear.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 3  |   |
 | Mon 2/10  | Generalized Linear Models (Continued)<br/> [[slides]](../../assets/files/lecs/lec6_generalized_linear.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 3  |   |
 | Wed 2/12  | Probabilistic Graphical Models<br/> [[slides]](../../assets/files/lecs/lec7_graphical.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 8  |   |
 | Mon 2/17  | Inference of PGM<br/> [[slides]](../../assets/files/lecs/lec8_graphic_inference.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 8  |   |
+| Wed 2/19  | Inference of PGM (Continued)<br/> [[slides]](../../assets/files/lecs/lec8_graphic_inference.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 8  | Homework 3 Released <br/> (Due Mar 13)  |
+| Mon 2/24  | Variational Inference<br/> [[slides]](../../assets/files/lecs/lec9_vi.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 4.4, 4.5, Chapter 9  |   |
 
 </div>
 <!-- 
