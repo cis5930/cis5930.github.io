@@ -26,6 +26,8 @@ nav_order: 3
 | Mon 2/17  | Inference of PGM<br/> [[slides]](../../assets/files/lecs/lec8_graphic_inference.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 8  |   |
 | Wed 2/19  | Inference of PGM (Continued)<br/> [[slides]](../../assets/files/lecs/lec8_graphic_inference.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 8  | Homework 3 Released <br/> (Due Mar 13)  |
 | Mon 2/24  | Variational Inference<br/> [[slides]](../../assets/files/lecs/lec9_vi.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 4.4, 4.5, Chapter 9  |   |
+| Wed 2/26  | Variational Inference(Continued)<br/> [[slides]](../../assets/files/lecs/lec9_vi.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 4.4, 4.5, Chapter 9, Chapter 10  |   |
+| Mon 3/3  | Variational Inference(Continued)<br/> [[slides]](../../assets/files/lecs/lec9_vi.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 4.4, 4.5, Chapter 9, Chapter 10  |   |
 
 </div>
 <!-- 
