@@ -28,6 +28,10 @@ nav_order: 3
 | Mon 2/24  | Variational Inference<br/> [[slides]](../../assets/files/lecs/lec9_vi.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 4.4, 4.5, Chapter 9  |   |
 | Wed 2/26  | Variational Inference(Continued)<br/> [[slides]](../../assets/files/lecs/lec9_vi.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 4.4, 4.5, Chapter 9, Chapter 10  |   |
 | Mon 3/3  | Variational Inference(Continued)<br/> [[slides]](../../assets/files/lecs/lec9_vi.pdf) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 4.4, 4.5, Chapter 9, Chapter 10  |   |
+| Wed 3/5  |  <b><span style="color:red">Cancelled</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Mon 3/10  |  <b><span style="color:red">Spring Break</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Wed 3/12  |  <b><span style="color:red">Spring Break</span></b> | <b><span style="color:red">-</span></b> | <span style="color:red">-</span> |
+| Mon 3/17  | Laplace Approximation<br/> [[slides]](../../assets/files/lecs/lec11_laplace.pdf)<br/>[[recording]](https://fsu.zoom.us/rec/share/dviA5VF8CtvR2t8Hsdzg_d1aQeJ3JBe0fsYMK8S5M8sdp6Y9_09PHxMflF5Q5po.IkY1Z0fTJZdTLTTZ) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 8  |   |
 
 </div>
 <!-- 

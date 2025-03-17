@@ -7,7 +7,7 @@ nav_exclude: false
 <div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 1 Annoucements</span>
 {: .fs-5}
-<span style="color:blue">Jan-8-2024</span>
+<span style="color:blue">Jan-8-2025</span>
 {: .fs-5}
 
 <!-- * <span style="color:red">Homework 5 due tonight 11:59pm.</span> -->

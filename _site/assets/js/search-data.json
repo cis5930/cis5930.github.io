@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Annoucements",
     "title": "Annoucements",
-    "content": "Week 1 Annoucements . Jan-8-2024 . | Homework 1 released, due on Jan 29 @ 11:59pm. | Homework solutions must be prepared using LaTeX | . ",
+    "content": "Week 1 Annoucements . Jan-8-2025 . | Homework 1 released, due on Jan 29 @ 11:59pm. | Homework solutions must be prepared using LaTeX | . ",
     "url": "/docs/annoucements/",
     
     "relUrl": "/docs/annoucements/"
@@ -358,7 +358,7 @@
   },"51": {
     "doc": "Home",
     "title": "Probabilistic Machine Learning and Modeling",
-    "content": "Spring 2025 . Download the Course Syllabus Here . Past annoucements . ",
+    "content": "Spring 2025 . Download the Course Syllabus Here . Week 11 Annoucements . March-17-2025 . | Homework 4 released, due on March-31-2025 @ 11:59pm. | Homework solutions must be prepared using LaTeX | . Past annoucements . ",
     "url": "/#probabilistic-machine-learning-and-modeling",
     
     "relUrl": "/#probabilistic-machine-learning-and-modeling"
@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Lectures",
     "title": "Lecture Schedule",
-    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 1/6 | Class Overview and Logistics [slides] | Course Syllabus Linear Algebra Review Probability Theory Review |   | . | Wed 1/8 | Basic Concepts [slides] |   | Homework 1 Released (Due Jan 29) | . | Mon 1/13 | Probability Distributions [slides] [Additional Notes] | PRML 2.1-2.3 |   | . | Wed 1/15 | Probability Distributions (Continue) [slides] | PRML 2.1-2.3 |   | . | Mon 01/20 | Cancelled | - | - | . | Wed 01/22 | Cancelled | - | - | . | Mon 1/27 | Probability Distributions (Continue) [slides] Conjugate Priors and Exponential Family [slides] | PRML 1.6, 2.4 |   | . | Wed 1/29 | Conjugate Priors and Exponential Family (Continued) [slides] | PRML 1.6, 2.4 | Homework 2 Released (Due Feb 19) | . | Mon 2/3 | Basic Concepts in Bayesian Decision and Information Theory [slides] | PRML 1.6, 2.4, 2.4.3 |   | . | Wed 2/5 | Generalized Linear Models [slides] | PRML Chapter 3 |   | . | Mon 2/10 | Generalized Linear Models (Continued) [slides] | PRML Chapter 3 |   | . | Wed 2/12 | Probabilistic Graphical Models [slides] | PRML Chapter 8 |   | . | Mon 2/17 | Inference of PGM [slides] | PRML Chapter 8 |   | . | Wed 2/19 | Inference of PGM (Continued) [slides] | PRML Chapter 8 | Homework 3 Released (Due Mar 13) | . | Mon 2/24 | Variational Inference [slides] | PRML Chapter 4.4, 4.5, Chapter 9 |   | . | Wed 2/26 | Variational Inference(Continued) [slides] | PRML Chapter 4.4, 4.5, Chapter 9, Chapter 10 |   | . | Mon 3/3 | Variational Inference(Continued) [slides] | PRML Chapter 4.4, 4.5, Chapter 9, Chapter 10 |   | . ",
+    "content": ". | Date | Topic | Reading Materials | Assignment | . | Mon 1/6 | Class Overview and Logistics [slides] | Course Syllabus Linear Algebra Review Probability Theory Review |   | . | Wed 1/8 | Basic Concepts [slides] |   | Homework 1 Released (Due Jan 29) | . | Mon 1/13 | Probability Distributions [slides] [Additional Notes] | PRML 2.1-2.3 |   | . | Wed 1/15 | Probability Distributions (Continue) [slides] | PRML 2.1-2.3 |   | . | Mon 01/20 | Cancelled | - | - | . | Wed 01/22 | Cancelled | - | - | . | Mon 1/27 | Probability Distributions (Continue) [slides] Conjugate Priors and Exponential Family [slides] | PRML 1.6, 2.4 |   | . | Wed 1/29 | Conjugate Priors and Exponential Family (Continued) [slides] | PRML 1.6, 2.4 | Homework 2 Released (Due Feb 19) | . | Mon 2/3 | Basic Concepts in Bayesian Decision and Information Theory [slides] | PRML 1.6, 2.4, 2.4.3 |   | . | Wed 2/5 | Generalized Linear Models [slides] | PRML Chapter 3 |   | . | Mon 2/10 | Generalized Linear Models (Continued) [slides] | PRML Chapter 3 |   | . | Wed 2/12 | Probabilistic Graphical Models [slides] | PRML Chapter 8 |   | . | Mon 2/17 | Inference of PGM [slides] | PRML Chapter 8 |   | . | Wed 2/19 | Inference of PGM (Continued) [slides] | PRML Chapter 8 | Homework 3 Released (Due Mar 13) | . | Mon 2/24 | Variational Inference [slides] | PRML Chapter 4.4, 4.5, Chapter 9 |   | . | Wed 2/26 | Variational Inference(Continued) [slides] | PRML Chapter 4.4, 4.5, Chapter 9, Chapter 10 |   | . | Mon 3/3 | Variational Inference(Continued) [slides] | PRML Chapter 4.4, 4.5, Chapter 9, Chapter 10 |   | . | Wed 3/5 | Cancelled | - | - | . | Mon 3/10 | Spring Break | - | - | . | Wed 3/12 | Spring Break | - | - | . | Mon 3/17 | Laplace Approximation [slides][recording] | PRML Chapter 8 |   | . ",
     "url": "/docs/lectures/#lecture-schedule",
     
     "relUrl": "/docs/lectures/#lecture-schedule"
