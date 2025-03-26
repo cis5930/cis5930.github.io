@@ -34,6 +34,7 @@ nav_order: 3
 | Mon 3/17  | Laplace Approximation<br/> [[slides]](../../assets/files/lecs/lec11_laplace.pdf)<br/>[[recording]](https://fsu.zoom.us/rec/share/dviA5VF8CtvR2t8Hsdzg_d1aQeJ3JBe0fsYMK8S5M8sdp6Y9_09PHxMflF5Q5po.IkY1Z0fTJZdTLTTZ) | [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 8  |  Homework 4 Released <br/> (Due Mar 31) |
 | Wed 3/19  | Latent Dirichlet Allocation<br/> [[slides]](../../assets/files/lecs/lec10_lda.pdf)<br/>| [paper](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  |   |
 | Mon 3/24  | Markov Chain Monte Carlo Sampling<br/> [[slides]](../../assets/files/lecs/lec12_sampling.pdf)<br/>| [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 11.2  |   |
+| Wed 3/26  | Markov Chain Monte Carlo Sampling (Cont.)<br/> [[slides]](../../assets/files/lecs/lec12_sampling.pdf)<br/>| [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 11.2  |   |
 
 </div>
 <!-- 
