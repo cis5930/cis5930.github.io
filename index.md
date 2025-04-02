@@ -13,7 +13,6 @@ Spring 2025
 [Download the Course Syllabus Here](./assets/files/syllabus-cis5930-spring25.pdf){: .fs-5 }
 
 
-
 [Past annoucements]({% link docs/annoucements.md %}){: .btn .btn-white }
 
 ## Instructor
