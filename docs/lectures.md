@@ -35,6 +35,8 @@ nav_order: 3
 | Wed 3/19  | Latent Dirichlet Allocation<br/> [[slides]](../../assets/files/lecs/lec10_lda.pdf)<br/>| [paper](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  |   |
 | Mon 3/24  | Markov Chain Monte Carlo Sampling<br/> [[slides]](../../assets/files/lecs/lec12_sampling.pdf)<br/>| [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 11.2  |   |
 | Wed 3/26  | Markov Chain Monte Carlo Sampling (Cont.)<br/> [[slides]](../../assets/files/lecs/lec12_sampling.pdf)<br/>| [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 11.2  |   |
+| Mon 3/31  | Markov Chain Monte Carlo Sampling (Cont.)<br/> [[slides]](../../assets/files/lecs/lec12_sampling.pdf)<br/>| [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 11.2  |   |
+| Wed 4/2  | Bayesian Neural Networks and Variational Autoencoder<br/> [[slides]](../../assets/files/lecs/lec13_bnn.pdf)<br/>| [BBB paper](https://arxiv.org/abs/1505.05424) <br/> [VAE paper](https://arxiv.org/abs/1312.6114) <br/> [GANs paper](https://arxiv.org/abs/1406.2661) |   |
 
 </div>
 <!-- 

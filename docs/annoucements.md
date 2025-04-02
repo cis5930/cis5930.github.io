@@ -5,6 +5,18 @@ nav_exclude: false
 ---
 
 <div class="code-example" markdown="1">
+<span style="color:#782F40;font-size:16pt">Week 11 Annoucements</span>
+{: .fs-5}
+<span style="color:blue">March-17-2025</span>
+{: .fs-5}
+
+<!-- * <span style="color:red">Homework 5 due tonight 11:59pm.</span> -->
+* Homework 4 released, due on March-31-2025 @ 11:59pm.
+* <span style="color:red">Homework solutions <b>must be</b> prepared using LaTeX</span>
+
+</div>
+
+<div class="code-example" markdown="1">
 <span style="color:#782F40;font-size:16pt">Week 1 Annoucements</span>
 {: .fs-5}
 <span style="color:blue">Jan-8-2025</span>
