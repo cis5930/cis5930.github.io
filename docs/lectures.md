@@ -38,6 +38,7 @@ nav_order: 3
 | Mon 3/31  | Markov Chain Monte Carlo Sampling (Cont.)<br/> [[slides]](../../assets/files/lecs/lec12_sampling.pdf)<br/>| [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Chapter 11.2  |   |
 | Wed 4/2  | Bayesian Neural Networks and Variational Autoencoder<br/> [[slides]](../../assets/files/lecs/lec13_bnn.pdf)<br/>| [BBB paper](https://arxiv.org/abs/1505.05424) <br/> [VAE paper](https://arxiv.org/abs/1312.6114) <br/> [GANs paper](https://arxiv.org/abs/1406.2661) |   |
 | Wed 4/9  | Bayesian Neural Networks and Variational Autoencoder<br/> (Continued) [[slides]](../../assets/files/lecs/lec13_bnn.pdf)<br/>| [BBB paper](https://arxiv.org/abs/1505.05424) <br/> [VAE paper](https://arxiv.org/abs/1312.6114) <br/> [GANs paper](https://arxiv.org/abs/1406.2661) |   |
+| Mon 4/14  | Bayesian Neural Networks and Variational Autoencoder<br/> (Continued) [[slides]](../../assets/files/lecs/lec13_bnn.pdf)<br/>| [BBB paper](https://arxiv.org/abs/1505.05424) <br/> [VAE paper](https://arxiv.org/abs/1312.6114) <br/> [GANs paper](https://arxiv.org/abs/1406.2661) |   |
 
 </div>
 <!-- 
